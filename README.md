@@ -1,7 +1,7 @@
 # Lab_04
 JavaScript variables, funtions, and calculations
 
-Name: _______________________________________
+Name: Hudson Kline
 
 ## DUE: 01 Oct 2018 @ 11:59 pm
 
